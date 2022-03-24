@@ -1,0 +1,23 @@
+/** @format */
+
+.container {
+  margin-top: 120px;
+}
+
+#subscribers_list {
+  padding: 30px;
+  margin: 20px auto;
+}
+
+#subscribers_list th,
+#subscribers_list td {
+  padding: 0 4px;
+}
+
+#subscribers_list tr:nth-child(odd) {
+  background: rgb(228, 228, 228);
+}
+
+#subscribers_list tr:first-child {
+  background: rgb(149, 209, 236);
+}
